@@ -1,7 +1,6 @@
 #------POPULAR ERRORS---------
 
-# #1 File not found
-
+##1 File not found
 try:
     file = open("file.txt")
     a_dictionary = {"key": "value"}
